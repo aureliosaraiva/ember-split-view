@@ -1,4 +1,6 @@
 # ember-split-view
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aureliosaraiva/ember-split-view.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/BryanHunt/ember-split-view.svg?branch=master)](https://travis-ci.org/BryanHunt/ember-split-view)
 ================
 
